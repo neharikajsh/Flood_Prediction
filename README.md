@@ -5,10 +5,15 @@ The data for this dataset was collected from the NOAA (https://www.ncei.noaa.gov
 The dataset has the following columns:
 
 STATE: The state where the rainfall was measured.
+
 DISTRICT: The district where the rainfall was measured.
+
 YEAR: The year for which the rainfall data is recorded.
+
 JAN, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC: The amount of rainfall in millimeters (mm) recorded in each month of the year.
+
 ANNUAL RAINFALL: The total amount of rainfall recorded in the year.
+
 FLOOD: A binary variable indicating whether a flood occurred in the district during the year (1 = flood, 0 = no flood).
 
 ### Data Usage
